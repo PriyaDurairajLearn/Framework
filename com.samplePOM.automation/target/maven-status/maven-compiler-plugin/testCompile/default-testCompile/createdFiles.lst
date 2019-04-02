@@ -1,0 +1,7 @@
+com\POMProject\Utilities\ConfigDataProvider.class
+com\POMProject\Utilities\CaptureScreenshot.class
+com\POMProject\Test\LoginCRMTest.class
+com\POMProject\Test\BaseClass.class
+com\POMProject\Utilities\ExcelDataConfig.class
+com\POMProject\Pages\LoginCRMPage.class
+com\POMProject\Utilities\BrowserFactory.class
